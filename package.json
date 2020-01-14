@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/papiblanco/papiblanco.github.io/issues"
   },
-  "homepage": "https://papiblanco/papiblanco.github.io",
+  "homepage": "https://papiblanco.github.io/SassTutorial2",
   "dependencies": {
     "gh-pages": "^2.2.0"
   }
