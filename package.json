@@ -1,0 +1,23 @@
+{
+  "name": "SassTutorial2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/papiblanco/papiblanco.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/papiblanco/papiblanco.github.io/issues"
+  },
+  "homepage": "https://papiblanco/papiblanco.github.io",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
